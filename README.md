@@ -6,5 +6,8 @@ Go from no-code to an in-demand Junior web developer, at a fraction of the cost 
 ```
 
 ```
-Start with the front-end by learning HTML, CSS, and JavaScript. Then, master the back-end and APIs to round out your full-stack skills.
+Start with the front-end by learning HTML, CSS, and JavaScript.
+```
+```
+Then, master the back-end and APIs to round out your full-stack skills.
 ```
