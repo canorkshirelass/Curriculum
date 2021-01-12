@@ -12,4 +12,4 @@ Start with the front-end by learning HTML, CSS, and JavaScript.
 Then, master the back-end and APIs to round out your full-stack skills.
 ```
 
-<img src="https://www.pixeltocode.co/images/spotlight-image.png" width="280px">
+<img src="https://www.pixeltocode.co/images/spotlight-image.png" width="340px">
