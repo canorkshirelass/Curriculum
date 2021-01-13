@@ -1,5 +1,7 @@
 <img src="http://pixeltocode.co/images/logo.png" width="280px">
 
+<img src="https://www.pixeltocode.co/images/mission-statement.png">
+
 
 ```
 Go from no-code to an in-demand Junior web developer, at a fraction of the cost of a bootcamp.
